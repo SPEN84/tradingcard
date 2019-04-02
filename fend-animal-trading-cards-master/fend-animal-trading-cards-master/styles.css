@@ -1,0 +1,28 @@
+	span {
+		font-weight:Bold;
+	}
+
+	body {
+		width:320px;
+		Border: 1px solid lightgrey;
+	}
+
+
+	img {
+		width:300px;
+	}
+
+	ul {
+		list-style-type: none;
+		padding: 0;
+    }
+
+    .margins {
+    	margin:12px;
+    }
+
+    .animalinfo {
+
+    	Border: 1px solid lightgrey; 
+    	padding:6px;
+    }
